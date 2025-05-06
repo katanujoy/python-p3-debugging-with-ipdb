@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+# lib/ipdb_is_awesome.py
 import ipdb
 
 def tracing_the_function():
